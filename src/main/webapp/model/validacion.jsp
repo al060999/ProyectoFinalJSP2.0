@@ -1,9 +1,3 @@
-<%-- 
-    Document   : validacion
-    Created on : 17/11/2021, 11:17:44 AM
-    Author     : Sabino
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
@@ -16,7 +10,6 @@ try{
     //recoge los datos del login
     String usu = request.getParameter("Usuario");
     String contra = request.getParameter("Pass");
-    out.println(usu + contra);
     //coneccion a la base de datos
     Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
     Connection conn = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName=Sistema;","sa","12345678");
@@ -30,7 +23,7 @@ try{
     if (rs.next()) {
             out.println("exito"); //el include es a donde quiero ir despues de que la validacion sea correcta
             
-            response.sendRedirect("../index.jsp");
+            response.sendRedirect("../sesion/Principal.jsp");
             
     }else{
         out.println("fracaso");

@@ -1,5 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,16 +8,17 @@
         <title>Primera JSP Page</title>
     </head>
     
-    <body style="background: url(images/FondoF.jpg)")>
-        <%@include file='views/header.jsp' %>
+    <body style="background: url(../images/FondoF.jpg)")>
+        <%@include file='../views/h1.jsp' %>
         
         <div class="container">
             
-            <%@include file='model/routing.jsp' %>
+            <%@include file='../model/rou.jsp' %>
             
         </div>
         <br>
         
-        <%@include file='views/footer.jsp' %>
+        <%@include file='../views/footer.jsp' %>
     </body>
 </html>
+

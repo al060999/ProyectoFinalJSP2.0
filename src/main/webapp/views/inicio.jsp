@@ -1,34 +1,32 @@
-<%-- 
-    Document   : inicio
-    Created on : 16/11/2021, 12:21:12 PM
-    Author     : Sabino
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
 <br>
 <div class="columns">
     <div class="column is-narrow">
-        <div class="box" style="width: 200px;">
-            <figure class="image is-128x128">
-                <img src="images/LogoPrincipal.png">
+        <div class="box" style="width: 350px;">
+            <figure class="image is-400x300">
+                <img src="images/blog-world.jpg">
             </figure>
-            <p class="title is-5">Registro de Vehiculos</p>
-            <p class="subtitle">Mantenga el Control de los Vehiculos que ingresan al Estacionamiento.</p>
+            <p class="title is-5">Blog de Escárcega</p>
+            <p>En este blog se mostraran pequeños reviews de los lugares principales que hay en la ciudad de escarcega, 
+                donde podra dejar un comentario de su opinion personal sobre como le ha parecido el lugar.</p>
         </div>
     </div>
     
     <div class="column">
         <div class="box">
-            <figure class="image is-128x128">
-                <img src="images/iconoV.png">
+            <figure class="image is-720x260">
+                <img src="images/escarcega.jpg">
             </figure>
-            <p class="title is-5">Control de Estacionamiento</p>
-            <p class="subtitle">Área de registro</p>
-            <p>Ingrese los datos relacionados con el vehiculo para el registro.</p>
+            <p class="title is-5">Ciudad de Escárcega</p>
+            <p>Escárcega es una ciudad del estado mexicano de Campeche, situada en el centro del estado. 
+                Es un importante nudo de comunicaciones, tanto de carreteras como de ferrocarril. Su origen 
+                se dio como estación de ferrocarril y campamento de explotación chiclera y de palo de tinte. </p>
             <br>
-            <p>Puede consultar los vehiculos que permanecen dentro del estacionamiento.</p>
+            <p>Es cabecera del Municipio de Escárcega. 
+                Se considera lugar de los chicleros además de ser la principal 
+                ciudad de paso hacia las capitales del sureste mexicano.</p>
         </div>
     </div>
 </div>
