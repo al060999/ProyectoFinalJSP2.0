@@ -6,27 +6,24 @@
     <div class="column is-narrow">
         <div class="box" style="width: 350px;">
             <figure class="image is-400x300">
-                <img src="images/blog-world.jpg">
+                <img src="images/Nota2.jpg">
             </figure>
-            <p class="title is-5">Blog de Escárcega</p>
-            <p>En este blog se mostraran pequeños reviews de los lugares principales que hay en la ciudad de escarcega, 
-                donde podra dejar un comentario de su opinion personal sobre como le ha parecido el lugar.</p>
+            <p class="title is-5">Notas</p>
+            <p>Esta aplicación web tiene la finalidad de agregar las notas que desees y 
+                posteriormente visualizarlas en otro apartado.</p>
         </div>
     </div>
     
     <div class="column">
         <div class="box">
             <figure class="image is-720x260">
-                <img src="images/escarcega.jpg">
+                <img src="images/Nota.jpg">
             </figure>
-            <p class="title is-5">Ciudad de Escárcega</p>
-            <p>Escárcega es una ciudad del estado mexicano de Campeche, situada en el centro del estado. 
-                Es un importante nudo de comunicaciones, tanto de carreteras como de ferrocarril. Su origen 
-                se dio como estación de ferrocarril y campamento de explotación chiclera y de palo de tinte. </p>
-            <br>
-            <p>Es cabecera del Municipio de Escárcega. 
-                Se considera lugar de los chicleros además de ser la principal 
-                ciudad de paso hacia las capitales del sureste mexicano.</p>
+            <p class="title is-5">¿Para que nos sirven las notas?</p>
+            <p>Escribir notas sirve para entrenar la habilidad de encontrar patrones, cuestionar las 
+                estructuras y los marcos que se usan y las distinciones que se hacen. Estos elementos son 
+                condición previa para acceder al pensamiento crítico y mirar más allá de las afirmaciones de 
+                un texto o discurso. </p>
         </div>
     </div>
 </div>

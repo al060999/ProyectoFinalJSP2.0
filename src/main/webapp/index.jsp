@@ -7,7 +7,7 @@
         <title>Primera JSP Page</title>
     </head>
     
-    <body style="background: url(images/FondoF.jpg)")>
+    <body style="background: url(images/Fondo.jpg)")>
         <%@include file='views/header.jsp' %>
         
         <div class="container">

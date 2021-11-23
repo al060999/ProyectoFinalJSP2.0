@@ -3,47 +3,26 @@
 
 <br>
 <div class="columns">
-    <div class="column ">
+    <div class="column">
         <div class="box" >
-            <p class="title is-3">Historia</p>
-            <p>El desarrollo de la región donde al día de hoy se asienta la ciudad de Escárcega tuvo como origen la 
-                explotación de los recursos naturales de la selva, principalmente el chicle, el caucho y el palo de tinte, 
-                todos ellos abundantes en las selvas de Campeche, pero que habían permanecido sin explotar hasta que el 
-                desarrollo industrial de finales del siglo XIX y principio del siglo XX lo hicieron económicamente explotable.</p>
+            <p class="title is-3">¿Qué son las notas?</p>
+            <p>Una nota puede ser un apunte de alguna cosa con el objetivo de acordarse de ella tiempo 
+                después o bien de extenderla. En general, se le dice nota a todo mensaje breve que ha sido 
+                escrito y al papel donde se da a conocer dicho mensaje.</p>
         </div>
     </div>
 
-    <div class="column ">
+    <div class="column">
         <div class="box" >
-            <p class="title is-3">Actualidad</p>
-            <p>En la actualidad, Escárcega es una población cuyo principal fuente de desarrollo es: ser un importante nudo de 
-                comunicaciones pues, en ella se unen la Carretera Federal 186 proveniente de Villahermosa, Tabasco, la cual 
-                continúa hacia el este hasta Chetumal, Quintana Roo; y la Carretera Federal 261 que continúa hacia el norte, 
-                comunicándolo con Champotón, Campeche y Mérida, Yucatán.</p>
-        </div>
-    </div>
-</div>
-
-<div class="columns">
-    <div class="column ">
-        <div class="box" >
-            <p class="title is-3">Leyendas</p>
-            <p>La antigua leyenda de la bruja del morro consiste en que una anciana pedía posada pero misteriosamente los 
-                dueños del hogar desaparecían, de ahí que todos empezaron a tenerle miedo y decidieron emboscarla invitándola 
-                a un hogar; la bruja estaba a punto de asesinar a los propietarios de aquel lugar, pero enseguida la agarraron 
-                entre varios y la encerraron en una cueva junto al mar, actualmente se dice que en las noches cuando la marea 
-                baja, se pueden escuchar los gritos de aquel monstruo, y se cree que algún día se librará de esas cadenas.</p>
-        </div>
-    </div>
-    
-    <div class="column ">
-        <div class="box" >
-            <p class="title is-3">Localización</p>
-            <figure class="image is-300x300">
-                <img src="images/Localizacion.jpg">
-            </figure>
-            <br />
-            <a href="https://www.google.com.mx/maps/place/Esc%C3%A1rcega,+Camp./@18.6058283,-90.7577071,14.24z/data=!4m13!1m7!3m6!1s0x85f63f212ae937b1:0xb8a13527b30330cc!2sEsc%C3%A1rcega,+Camp.!3b1!8m2!3d18.6101834!4d-90.7390245!3m4!1s0x85f63f212ae937b1:0xb8a13527b30330cc!8m2!3d18.6101834!4d-90.7390245">¿Donde se ubica?</a>
+            <p class="title is-3">Para qué sirven las notas</p>
+            <ul>
+                <li>• Para añadir a un tema discutido en el texto otras indicaciones bibliográficas de refuerzo</li>
+                <li>• Para referencias externas e internas</li>
+                <li>• Para introducir una cita de refuerzo que en el texto estorbaría</li>
+                <li>• Para ampliar las aseveraciones que se han hecho en el texto</li>
+                <li>• Para corregir las afirmaciones del texto</li>
+                <li>• Para ofrecer la traducción de una cita</li>
+            </ul>
         </div>
     </div>
 </div>

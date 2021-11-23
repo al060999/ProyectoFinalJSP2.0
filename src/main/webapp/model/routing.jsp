@@ -8,26 +8,26 @@
             //case "inicio" :
             case 1 :
                 %>
-                <h3 class="title is-3" style="color: white">Inicio</h3>
+                <h3 class="title is-3" style="color: black">Inicio</h3>
                 <%@include file='../views/inicio.jsp' %>
                 <%
                 break;
             //case "login" :
             case 2 :
                 %>
-                <h3 class="title is-3" style="color: white">Login</h3>
+                <h3 class="title is-3" style="color: black">Login</h3>
                 <%@include file='../views/login.jsp' %>
                 <%
                 break;
             case 3 :
                 %>
-                <h3 class="title is-3" style="color: white">Contacto</h3>
+                <h3 class="title is-3" style="color: black">Contacto</h3>
                 <%@include file='../views/contacto.jsp' %>
                 <%
                 break;
             case 4 :
                 %>
-                <h3 class="title is-3" style="color: white">Acerca de la ciudad de Escárcega</h3>
+                <h3 class="title is-3" style="color: black">Acerca de las Notas</h3>
                 <%@include file='../views/acercade.jsp' %>
                 <%
                 break;    
@@ -39,13 +39,13 @@
                 break;    
             default:
                 %>
-                <h3 class="title is-3" style="color: white">Inicio</h3>
+                <h3 class="title is-3" style="color: black">Inicio</h3>
                 <%@include file='../views/inicio.jsp' %>
                 <%
                     }
 } else {
             %>
-            <h3 class="title is-3" style="color: white">Inicio</h3>
+            <h3 class="title is-3" style="color: black">Inicio</h3>
             <%@include file='../views/inicio.jsp' %>
             <%
         }

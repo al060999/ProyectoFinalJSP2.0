@@ -18,7 +18,7 @@
         <%
             try{
                 Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-                Connection conn = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName=Sistema2;","sa","12345678");
+                Connection conn = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName=Sistema;","sa","12345678");
                 PreparedStatement pst = conn.prepareStatement("SELECT * FROM COMENTARIOS");
                 ResultSet rs = pst.executeQuery();
         %>
