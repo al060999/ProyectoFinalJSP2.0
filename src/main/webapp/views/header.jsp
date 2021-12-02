@@ -12,10 +12,10 @@
     <div class="hero-body">
         <div class="container">
             <h1 class="title" style="color: white">
-                Blog
+                Notas
             </h1>
             <h2 class="subtitle" style="color: white">
-                Escárcega, Campeche
+                Administrador de Notas
             </h2>
         </div>
     </div>

@@ -5,11 +5,11 @@
 <div class="columns">    
     <div class="column">
         <div class="box">
-            <p class="title is-5">¡Bienvenido al Blog de Escárcega!</p>
-            <p>Dentro de esta seccion podras encontrar diferente reviews de las zonas principales de Escárcega. 
-                Podras vizualizar la imagen del lugar y una breve descripcion.</p>
+            <p class="title is-5">¡Bienvenido al la seección para crear notas!</p>
+            <p>Dentro de esta seccion podras crear las notas que desees, solo tienes que dirigirte 
+                a la seccion Crear Nota, colocandole un titulo y el contenido que tu quieras.</p>
             <br>
-            <p>De igual manera podras dejar un comentario en cada review y estos los podras visualizar en el apartado de comentarios.</p>
+            <p>De igual podras vizualir las notas que has creado en el apartado de Notas.</p>
         </div>
     </div>
 </div>

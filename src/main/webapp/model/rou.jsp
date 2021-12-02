@@ -14,14 +14,14 @@
                 break;
             case 2 :
                 %>
-                <h3 class="title is-3" style="color: black">Lugares</h3>
-                <%@include file='../sesion/Lugares.jsp' %>
+                <h3 class="title is-3" style="color: black">Crear Nota</h3>
+                <%@include file='../sesion/CrearNota.jsp' %>
                 <%
                 break;
             case 3 :
                 %>
-                <h3 class="title is-3" style="color: black">Comentarios</h3>
-                <%@include file='../sesion/Comentarios.jsp' %>
+                <h3 class="title is-3" style="color: black">Notas</h3>
+                <%@include file='../sesion/Notas.jsp' %>
                 <%
                 break;
             case 4 :
