@@ -7,7 +7,7 @@
 
 <%
     try{
-        String id = request.getParameter("IDNE");
+        String id = request.getParameter("id");
 
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
         Connection conn = DriverManager.getConnection("jdbc:sqlserver://localhost:1433;databaseName=Sistema;","sa","12345678");

@@ -5,10 +5,10 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
-        <title>Primera JSP Page</title>
+        <title>Blog de Escarcega</title>
     </head>
     
-    <body style="background: url(../images/Fondo.jpg)")>
+    <body style="background: url(../images/FondoF.jpg)")>
         <%@include file='../views/h1.jsp' %>
         
         <div class="container">
